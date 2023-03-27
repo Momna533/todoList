@@ -1,0 +1,18 @@
+.grocery_item{
+    display: flex;
+}
+.grocery_container{
+    visibility: hidden;
+}
+.show_container{
+    visibility: visible;
+}
+.alert_danger{
+    color: red;
+}
+.alert_success{
+    color: green;
+}
+.hide_clear_btn{
+    display: none;
+}
